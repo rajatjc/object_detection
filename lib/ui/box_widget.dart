@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:object_detection_mine/tflite/recognition.dart';
+import 'package:object_detection/tflite/recognition.dart';
 
 /// Individual bounding box
 class BoxWidget extends StatelessWidget {

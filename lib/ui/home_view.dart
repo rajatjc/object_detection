@@ -1,9 +1,9 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:object_detection_mine/tflite/recognition.dart';
-import 'package:object_detection_mine/tflite/stats.dart';
-import 'package:object_detection_mine/ui/box_widget.dart';
-import 'package:object_detection_mine/ui/camera_view_singleton.dart';
+import 'package:object_detection/tflite/recognition.dart';
+import 'package:object_detection/tflite/stats.dart';
+import 'package:object_detection/ui/box_widget.dart';
+import 'package:object_detection/ui/camera_view_singleton.dart';
 
 import 'camera_view.dart';
 

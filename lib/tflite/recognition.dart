@@ -1,7 +1,7 @@
 import 'dart:math';
 
 import 'package:flutter/cupertino.dart';
-import 'package:object_detection_mine/ui/camera_view_singleton.dart';
+import 'package:object_detection/ui/camera_view_singleton.dart';
 
 /// Represents the recognition output from the model
 class Recognition {
